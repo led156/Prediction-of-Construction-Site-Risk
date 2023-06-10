@@ -276,7 +276,9 @@ def main():
         print('✔')
     else:
         print('-')
-
+    st.write('')
+    st.write('')
+    st.write('')
 
 
 def GetdateTimeDifferenceInHours(a, b):
